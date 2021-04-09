@@ -1,6 +1,6 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-Проверпка
+Дополнительная проверка
 
 * Студент: [Ермолаев Ильназ](https://htmlacademy.ru/profile/id1724833).
 * Наставник: [Ермолаев Ильназ](https://htmlacademy.ru/profile/id1724833).
